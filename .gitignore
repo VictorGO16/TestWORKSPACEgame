@@ -1,0 +1,19 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build or distribution directories
+dist/
+build/
+
+# Ignore temporary or log files
+*.log
+*.tmp
+
+# Ignore environment or configuration files
+.env
+config.js
+
+# Additional files or directories to be ignored by Git
+.DS_Store
+.idea/
+.vscode/
