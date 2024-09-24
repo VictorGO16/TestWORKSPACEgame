@@ -1,0 +1,12 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "description": "A simple implementation of the classic Pong game using HTML, CSS, and JavaScript.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "open src/index.html"
+  },
+  "author": "VictorGO16",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+canvas {
+    border: 1px solid #fff;
+}
+
+.paddle {
+    fill: #fff;
+}
+
+.ball {
+    fill: #fff;
+}
+
+@media (max-width: 800px) {
+    canvas {
+        width: 100%;
+        height: auto;
+    }
+}
